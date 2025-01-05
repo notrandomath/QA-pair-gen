@@ -1,6 +1,6 @@
 # Amazon QA Monorepo
 
-A chatbot for customer service QA pair generation
+A script for customer service QA pair generation
 
 ## Installation
 To install run `pip install -r requirements.txt`
