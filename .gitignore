@@ -2,3 +2,7 @@ out/
 1-Amazon/
 2-AmazonQA/
 3-CPQA/
+.env
+__pycache__/
+.DS_Store
+.vscode/

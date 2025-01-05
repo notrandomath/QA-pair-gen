@@ -1,0 +1,10 @@
+pandas
+datasets
+tqdm
+huggingface_hub
+argparse
+openai
+python-dotenv
+evaluate
+bert_score
+rouge_score
